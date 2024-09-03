@@ -1,4 +1,4 @@
 # hvac
 Code to analyse the under-deck temp sensors to figure out what's going on with my heat pump compressors
 
-ChatGPT session is [here](https://chatgpt.com/c/fff22afc-ab58-4d52-91d9-b31cdd256719).
+ChatGPT session is [here](https://chatgpt.com/share/e/b86b9b3b-58fb-46aa-b6ed-37b71c9adcaf).
